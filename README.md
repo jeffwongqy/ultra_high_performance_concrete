@@ -8,3 +8,4 @@ Future Work (Ongoing):
 - Exploration of possible feature engineering and feature selection techniques
 - Exploration improves prediction performance on linear modeling such as linear regression.
 - Integrate models with web apps such as Streamlit, Gradio, or PyWebIO.
+- Dirty engineering data-driven inverse prediction machine learning modelling. 
