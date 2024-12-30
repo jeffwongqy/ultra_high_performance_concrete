@@ -6,6 +6,6 @@ This project focuses on leveraging tree-based regression models to predict the c
 
 Future Work (Ongoing):
 - Exploration of possible feature engineering and feature selection techniques
-- Exploration improves prediction performance on linear modeling such as linear regression.
+- Exploration improves prediction performance on non-linear modeling.
 - Integrate models with web apps such as Streamlit, Gradio, or PyWebIO.
-- Dirty engineering data-driven inverse prediction machine learning modelling. 
+- Dirty engineering data-driven inverse prediction machine learning modeling. 
